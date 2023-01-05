@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-     registry = "atos06/ipiformation"
+     registry = "elbee1969/JenkisTP"
      registryCredential = 'docker-hub-credentials'
      dockerImage = ''
   }
